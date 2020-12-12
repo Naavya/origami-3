@@ -1,0 +1,70 @@
+h1{
+    color: darkblue;
+  border: solid;
+}
+.header{
+    background-color: gold;
+    border: solid;
+}
+
+.grid{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    padding:15px;
+    font-size:20px;
+    font-family:sans-serif;
+    font-weight: 400;
+    color: black;
+}
+.camel{
+    border-radius: 20px;
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.chameleon{
+    border-radius: 20px;
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.cicada{
+    border-radius: 20px;
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.panda{
+    border-radius: 20px;
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.pigeon{
+    border-radius: 20px;
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.teddybear{
+    border-radius: 20px;
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+
+
+
